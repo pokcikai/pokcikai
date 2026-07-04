@@ -1,12 +1,12 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,50:1e293b,100:22c55e&text=Pokcik%20AI&fontColor=ffffff&fontSize=56&fontAlignY=38&desc=Founder%20%26%20Lead%20Engineer%20%40%20EZ%20OS&descSize=18&descAlignY=58" />
-</p>
-
 <div align="center">
 
-### Building AI-powered SaaS, CRM Platforms, Business Automation & Trading Infrastructure.
+# Pokcik AI
 
-🌐 **https://ezos.my**
+### Founder & Solutions Architect @ EZ OS
+
+**AI SaaS • CRM Platforms • Business Automation • Trading Infrastructure**
+
+🌐 [ezos.my](https://ezos.my)
 
 <br>
 
@@ -18,19 +18,33 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
 
+---
+
+### Building production-ready software for real businesses.
+
 </div>
 
 ---
 
-# 👋 About
+# 👋 About Me
 
-Hi, I'm **Pokcik**, Founder, Solutions Architect & Lead Engineer at **EZ OS**.
+I'm **Pokcik**, Founder & Solutions Architect at **EZ OS**.
 
-I design, architect and build production-ready software focused on AI, SaaS, CRM, automation, and trading ecosystems. Every solution is built with scalability, maintainability, and long-term business growth in mind.
+I design and build production-ready SaaS platforms, AI-powered applications, CRM systems, workflow automation, and trading infrastructure.
+
+Over the years, I've delivered multiple production systems for businesses across Asia and Europe, focusing on scalable architecture, long-term maintainability, and AI-first solutions.
+
+# 🚀 About EZ OS
+
+At EZ OS, we build AI-powered software that helps businesses automate operations, improve productivity, and scale efficiently.
+
+Our expertise spans SaaS platforms, CRM systems, AI agents, workflow automation, internal business tools, and trading infrastructure.
+
+Every solution is engineered with a focus on scalability, security, and long-term maintainability.
 
 ---
 
-# 🚀 What We Build
+# 🚀 Products & Solutions
 
 - 🤖 AI SaaS Platforms
 - 💼 CRM Systems
@@ -60,7 +74,7 @@ I design, architect and build production-ready software focused on AI, SaaS, CRM
 | 🤖 Jarvis OS | ✅ Production |
 | 💼 Double i Solution | ✅ Production |
 
-**...and many more production deployments.**
+**...and more production deployments under the EZ OS ecosystem.**
 
 ---
 
@@ -69,15 +83,31 @@ I design, architect and build production-ready software focused on AI, SaaS, CRM
 ```text
 🚀 21+ Production Applications
 
-🌍 Clients in Malaysia, Indonesia, Brunei, Singapore, Vietnam, Hong Kong,
-China, Albania, Bangladesh, Uzbekistan & the United Kingdom
+🤖 AI-powered Business Platforms
 
-🤖 AI-Powered Platforms
-
-💼 CRM & Business Automation
+💼 CRM & Automation Systems
 
 📈 Trading Infrastructure
+
+☁️ Cloud-native Deployments
+
+🌍 Clients Across Asia, Europe & Beyond
+
+🏢 Built for Real Businesses
 ```
+
+---
+
+# 🌐 Global Reach
+
+Supporting businesses and clients across:
+
+| Region | Countries |
+|--------|-----------|
+| Southeast Asia | 🇲🇾 Malaysia, 🇮🇩 Indonesia, 🇻🇳 Vietnam |
+| East Asia | 🇭🇰 Hong Kong, 🇨🇳 China |
+| Central Asia | 🇺🇿 Uzbekistan |
+| Europe | 🇬🇧 United Kingdom, 🇦🇱 Albania |
 
 ---
 
@@ -95,7 +125,7 @@ Every platform is designed with:
 
 ---
 
-# 🛠 Technology
+# 🛠 Engineering Stack
 
 ### Frontend
 
@@ -127,7 +157,7 @@ Every platform is designed with:
 
 # 🎯 Current Focus
 
-Building the **EZ OS Ecosystem**—an integrated suite of AI-powered software for modern businesses.
+Building the **EZ OS Ecosystem** — an integrated suite of AI-powered software for modern businesses.
 
 Current initiatives include:
 
@@ -137,16 +167,20 @@ Current initiatives include:
 - Trading Infrastructure
 - AI Agents
 - Business Intelligence
+- White-label SaaS Platforms
 
 ---
 
 # 🌐 Connect
 
 🌍 Website  
-https://ezos.my
+[https://ezos.my](https://ezos.my)
 
-📍 Location  
+📍 Base  
 Malaysia 🇲🇾
+
+🌎 Market  
+Asia, Europe & beyond
 
 ---
 
