@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/github-banner.svg" alt="Pokcik AI — Founder & Solutions Architect @ EZ OS" width="100%" />
+<img src="assets/github-banner.png" alt="Pokcik AI — Founder & Loop Engineer @ EZ OS" width="100%" />
 
 # Pokcik AI
 
-**Founder & Solutions Architect @ [EZ OS](https://ezos.my)**
+**Founder & Loop Engineer @ [EZ OS](https://ezos.my)**
 
-Engineering AI-powered software that businesses rely on.
+*I don't write the code — I engineer the loop that writes, ships, and verifies it.*
 
 [![Website](https://img.shields.io/badge/Website-ezos.my-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A1122)](https://ezos.my)
 [![GitHub](https://img.shields.io/badge/GitHub-pokcikai-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A1122)](https://github.com/pokcikai)
@@ -32,6 +32,8 @@ Engineering AI-powered software that businesses rely on.
 EZ OS is an AI-first software company building production systems for real businesses — SaaS platforms, CRM systems, business automation, AI agents, internal tooling, white-label platforms, and trading infrastructure.
 
 I run the full lifecycle: architecture, implementation, deployment, and operations. Every platform below is live in production and serving clients today.
+
+**Loop Engineering** is how I work: instead of writing every line, I design and operate the loop between human intent and autonomous agents — the guardrails, review gates, and verification — so software ships reliably and at scale. The progression: `vibe coding` → `agentic engineering` → **loop engineering**.
 
 **Build. Launch. Scale.**
 
